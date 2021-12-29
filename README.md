@@ -1,4 +1,4 @@
-## Ubuntu Style for ImGui
+# Ubuntu Style for ImGui
 
 ## Color palette
 This is the color palette used in this project
