@@ -1,13 +1,13 @@
 # Ubuntu Style for ImGui
 
-## Color palette
+## Color palette 🎨
 This is the color palette used in this project
 ![Palette](https://raw.githubusercontent.com/mariomamede/imgui-ubuntu-style/main/ubuntu%20color%20palette.jpg)
 
-## Preview
+## Preview 🌟
 ![Preview](https://raw.githubusercontent.com/mariomamede/imgui-ubuntu-style/main/imgui%20ubuntu%20style%20preview.webp)
 
-## Code
+## Code 💻
 ### Border and Rounding
 ```
 //Borders
